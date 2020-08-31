@@ -861,11 +861,11 @@
               }
             },
             ".mbr-section-title": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#232323"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "left",
+              "text-align": "center",
               "color": "#232323"
             }
           },
