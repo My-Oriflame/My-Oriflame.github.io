@@ -57,7 +57,8 @@
     "cookiesAlert": false,
     "gdpr": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\n<!-- Global site tag (gtag) - Google Ads: 652028785 -->\n<amp-analytics type=\"gtag\" data-credentials=\"include\">\n<script type=\"application/json\">\n{\n  \"vars\": {\n    \"gtag_id\": \"AW-652028785\",\n    \"config\": {\n      \"AW-652028785\": {\n        \"groups\": \"default\"\n      }\n    }\n  },\n  \"triggers\": {\n  }\n}\n</script>\n</amp-analytics>\n\"C_voBxPYQrrVg\": {\n  \"on\": \"click\",\n  \"selector\": \"CSS_SELECTOR\",\n  \"vars\": {\n    \"event_name\": \"conversion\",\n    \"send_to\": [\"AW-652028785/FyTWCO250NwBEPHW9LYC\"]\n  }\n}\n\n\n\n<script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\n<!-- Global site tag (gtag) - Google Ads: 652028785 -->\n<amp-analytics type=\"gtag\" data-credentials=\"include\">\n<script type=\"application/json\">\n{\n  \"vars\": {\n    \"gtag_id\": \"AW-652028785\",\n    \"config\": {\n      \"AW-652028785\": {\n        \"groups\": \"default\"\n      }\n    }\n  },\n  \"triggers\": {\n  }\n}\n</script>\n</amp-analytics>\n\"C_BgaVRDiUWzQ\": {\n  \"on\": \"visible\",\n  \"vars\": {\n    \"event_name\": \"conversion\",\n    \"send_to\": [\"AW-652028785/MBhYCNfqkN0BEPHW9LYC\"]\n  }\n}\n\n"
   },
   "pages": {
     "index.html": {
