@@ -49,7 +49,7 @@
     "uniqCompNum": 33,
     "versionPublish": "4.12.3",
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/1234-128x64-1.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
