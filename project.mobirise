@@ -673,11 +673,11 @@
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
               "color": "#ffffff",
-              "text-align": "left"
+              "text-align": "center"
             },
             "H2": {
               "color": "#ffffff",
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "content4",
@@ -744,11 +744,11 @@
             "background-color": "@bgColor",
             ".mbr-section-subtitle": {
               "color": "#ffffff",
-              "text-align": "left"
+              "text-align": "center"
             },
             "H2": {
               "color": "#ffffff",
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "content4",
