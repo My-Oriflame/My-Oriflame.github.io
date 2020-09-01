@@ -50,13 +50,13 @@
     "versionPublish": "4.12.3",
     "imageResize": true,
     "favicon": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "siteUrl": "https://my-oriflame.github.io/",
+    "robotsText": "User-agent: *\nDisallow: /project.mobirise*\nSitemap: https://my-oriflame.github.io/sitemap.xml\nHost*: https://my-oriflame.github.io/\n",
     "screenshot": "screenshot.png",
-    "google-analytics": "<title>Работа для мам в декрете, Работа на дому, Высококачественная косметика, Присоединяйся к Oriflame, Карьера с Oriflame, Дополнительный доход, Как заработать в интернете?</title>\n<meta name=\"description\" content=\"Мы постоянно работаем над самыми выгодными условиями для партнеров и клиентов! И гордимся тем, что можем предоставить вам широчайший спектр карьерных возможностей.\">\n<meta name=\"keywords\" content=\"робота інтернет в дома, работа на дому для мам в декрете онлайн вакансії, робота для мам в декрете київ, регистрация в орифлейм, робота в інтернеті для жінок, дополнительный заработок, регистрация в орифлейм, робота онлайн вдома\">",
+    "google-analytics": "",
     "cookiesAlert": false,
     "gdpr": false
   },
@@ -64,11 +64,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Главная",
-        "meta_descr": "",
+        "title": " Как заработать в интернете? Дополнительній доход. Работа для мам в декрете. ",
+        "meta_descr": "Мы постоянно работаем над самыми выгодными условиями для партнеров и клиентов! И гордимся тем, что можем предоставить вам широчайший спектр карьерных возможностей.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/cosmetics-960x639.jpg"
       },
       "components": [
         {
