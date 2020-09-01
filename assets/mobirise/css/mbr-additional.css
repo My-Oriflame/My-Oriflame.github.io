@@ -1118,28 +1118,28 @@ section.lazy-placeholder:after {
 .cid-s98oUPOHE9 .dropdown-item:hover {
   color: #ffffff !important;
 }
-.cid-s9kpBGozmD {
-  padding-top: 75px;
-  padding-bottom: 0px;
-  background: linear-gradient(45deg, #c1c1c1, #ffffff);
+.cid-s9lx8rmUoH {
+  padding-top: 90px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-s9kpBGozmD .mbr-figure {
-    padding-left: 4rem;
+.cid-s9lx8rmUoH .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s9lx8rmUoH .section-text {
+  padding: 2rem 0;
+}
+.cid-s9lx8rmUoH .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s9lx8rmUoH .inner-container {
+    width: 100% !important;
   }
-}
-@media (max-width: 991px) {
-  .cid-s9kpBGozmD .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-s9kpBGozmD .mbr-section-title {
-  color: #000000;
-  text-align: center;
-}
-.cid-s9kpBGozmD .mbr-text,
-.cid-s9kpBGozmD .mbr-section-btn {
-  text-align: center;
 }
 .cid-s9dpukTc0b {
   padding-top: 45px;
