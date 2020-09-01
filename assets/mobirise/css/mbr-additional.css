@@ -1118,30 +1118,24 @@ section.lazy-placeholder:after {
 .cid-s98oUPOHE9 .dropdown-item:hover {
   color: #ffffff !important;
 }
-.cid-s9g2aYl1eO {
-  padding-top: 90px;
-  padding-bottom: 15px;
-  background-color: #c6aec0;
+.cid-s9kpBGozmD {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background: linear-gradient(45deg, #c1c1c1, #ffffff);
 }
-.cid-s9g2aYl1eO .line {
-  background-color: #767676;
-  color: #767676;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-s9g2aYl1eO .section-text {
-  padding: 2rem 0;
-  text-align: center;
-  color: #ffffff;
-}
-.cid-s9g2aYl1eO .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-s9g2aYl1eO .inner-container {
-    width: 100% !important;
+@media (min-width: 992px) {
+  .cid-s9kpBGozmD .mbr-figure {
+    padding-left: 4rem;
   }
+}
+@media (max-width: 991px) {
+  .cid-s9kpBGozmD .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-s9kpBGozmD .mbr-section-title {
+  color: #000000;
+  text-align: right;
 }
 .cid-s9dpukTc0b {
   padding-top: 45px;
@@ -1246,7 +1240,7 @@ section.lazy-placeholder:after {
 .cid-s98JEj8J1f {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #c0bae3;
+  background-color: #7f1933;
 }
 .cid-s98JEj8J1f .row-links {
   width: 100%;
@@ -1782,6 +1776,84 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #232323;
 }
+.cid-s9kybkZdER {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #7f1933;
+}
+.cid-s9kybkZdER .row-links {
+  width: 100%;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-s9kybkZdER .social-row {
+  width: 100%;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-s9kybkZdER .media-container-row {
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.cid-s9kybkZdER .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-s9kybkZdER .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-s9kybkZdER .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-s9kybkZdER .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-s9kybkZdER .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-s9kybkZdER .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-s9kybkZdER .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-s9kybkZdER .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-s9kybkZdER .media-container-row .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+.cid-s9kybkZdER .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-s9kybkZdER .media-container-row .row-copirayt p {
+  width: 100%;
+}
 .cid-s98oUPOHE9 .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -2272,7 +2344,7 @@ section.lazy-placeholder:after {
 .cid-s98JEj8J1f {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #c0bae3;
+  background-color: #7f1933;
 }
 .cid-s98JEj8J1f .row-links {
   width: 100%;
@@ -2831,7 +2903,7 @@ section.lazy-placeholder:after {
 .cid-s98JEj8J1f {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #c0bae3;
+  background-color: #7f1933;
 }
 .cid-s98JEj8J1f .row-links {
   width: 100%;
@@ -3339,7 +3411,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s9fKSrRdcG .mbr-figure-caption div {
-  color: #c0bae3;
+  color: #ffffff;
 }
 .cid-s9fPivq8we {
   padding-top: 45px;
@@ -3349,7 +3421,7 @@ section.lazy-placeholder:after {
 .cid-s98JEj8J1f {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #c0bae3;
+  background-color: #7f1933;
 }
 .cid-s98JEj8J1f .row-links {
   width: 100%;
