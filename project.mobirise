@@ -51,10 +51,10 @@
     "imageResize": true,
     "favicon": false,
     "robotsSwitcher": true,
-    "sitemapSwitcher": true,
+    "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "https://my-oriflame.github.io/",
-    "robotsText": "User-agent: *\nDisallow: /project.mobirise*\nSitemap: https://my-oriflame.github.io/sitemap.xml\nHost*: https://my-oriflame.github.io/\n\n\n",
+    "siteUrl": false,
+    "robotsText": "User-agent: *\nDisallow: /project.mobirise*\nSitemap: https://my-oriflame.github.io/sitemap.xml\nHost*: https://my-oriflame.github.io/\n\n\n\n",
     "screenshot": "screenshot.png",
     "google-analytics": "",
     "cookiesAlert": false,
@@ -64,7 +64,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Дополнительный доход 💻 Работа для мам в декрете 🌹 Регистрация  в  Oriflame 👩",
+        "title": "Дополнительный доход. 💻 Работа для мам в декрете. 🌹 Регистрация  в  Oriflame.👩",
         "meta_descr": "Мы постоянно работаем над самыми выгодными условиями для партнеров и клиентов! И гордимся тем, что можем предоставить вам широчайший спектр карьерных возможностей.",
         "header_custom": "",
         "footer_custom": "",
