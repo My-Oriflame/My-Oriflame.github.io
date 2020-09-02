@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /project.mobirise*
-Sitemap: https://my-oriflame.github.io/sitemap.xml
-Host*: https://my-oriflame.github.io/
-
-
-
