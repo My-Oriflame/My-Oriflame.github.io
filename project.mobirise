@@ -50,11 +50,11 @@
     "versionPublish": "4.12.3",
     "imageResize": true,
     "favicon": false,
-    "robotsSwitcher": true,
+    "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
-    "robotsText": "User-agent: *\nDisallow: /project.mobirise*\nSitemap: https://my-oriflame.github.io/sitemap.xml\nHost*: https://my-oriflame.github.io/\n\n\n\n",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "screenshot": "screenshot.png",
     "google-analytics": "",
     "cookiesAlert": false,
@@ -64,12 +64,11 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Дополнительный доход. 💻 Работа для мам в декрете. 🌹 Регистрация  в  Oriflame.👩",
-        "meta_descr": "Мы постоянно работаем над самыми выгодными условиями для партнеров и клиентов! И гордимся тем, что можем предоставить вам широчайший спектр карьерных возможностей.",
+        "title": "О нас",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/cosmetics-960x639.jpg"
+        "html_before": ""
       },
       "components": [
         {
